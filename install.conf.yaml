@@ -1,0 +1,20 @@
+- defaults:
+    link:
+      relink: true
+
+- clean: ['~']
+
+- link:
+    ~/.dotfiles: ''
+    ~/.shell:
+    ~/.tmux.conf: 
+    ~/.vimrc: 
+    ~/.zshrc: 
+    ~/.oh-my-zsh:
+    ~/.tmux: 
+
+- create:
+    - ~/.vim/undo-history
+
+- shell:
+  - [git submodule update --init --recursive, Installing submodules]
