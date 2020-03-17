@@ -9,12 +9,14 @@
     ~/.shell:
     ~/.tmux.conf: 
     ~/.vimrc: 
+    ~/.vim:
+      force: true
     ~/.zshrc: 
     ~/.oh-my-zsh:
     ~/.tmux: 
 
-- create:
-    - ~/.vim/undo-history
+# - create:
+#     - ~/.vim/undo-history
 
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
