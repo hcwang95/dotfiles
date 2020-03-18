@@ -40,3 +40,9 @@ up()
     fi
     cd "${cdir}"
 }
+
+# open other files
+alias open="xdg-open"
+
+# df with human readable output
+alias df="df -h"
