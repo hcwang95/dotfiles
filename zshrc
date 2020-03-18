@@ -77,6 +77,8 @@ if [ -f ~/.zshrc_local_before ]; then
     source ~/.zshrc_local_before
 fi
 
+# environments
+source ~/.shell/env.sh
 
 # Aliases
 source ~/.shell/aliases.sh
