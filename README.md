@@ -14,6 +14,7 @@ TODO:
 - [x] Zsh 
 - [ ] Vim plugins
 - [ ] Zsh plugins
+- [ ] Make platform specific bash/zsh configs
 - [ ] Check [awesome dotfiles]() for more details
 
 Reference:
