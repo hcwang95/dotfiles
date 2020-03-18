@@ -4,16 +4,16 @@
 	ignore = dirty
 [submodule "oh-my-zsh"]
 	path = oh-my-zsh
-	url = git@github.com:ohmyzsh/ohmyzsh.git
+	url = https://github.com/ohmyzsh/ohmyzsh.git
 [submodule "tmux"]
 	path = tmux
-	url = git@github.com:gpakosz/.tmux.git
+	url = https://github.com/gpakosz/.tmux.git
 [submodule "vim/bundle/vim-sensible"]
 	path = vim/bundle/vim-sensible
 	url = https://tpope.io/vim/sensible.git
 [submodule "vim/bundle/auto-pairs"]
 	path = vim/bundle/auto-pairs
-	url = git://github.com/jiangmiao/auto-pairs.git
+	url = https://github.com/jiangmiao/auto-pairs.git
 [submodule "vim/bundle/nerdtree"]
 	path = vim/bundle/nerdtree
 	url = https://github.com/preservim/nerdtree.git
@@ -25,7 +25,7 @@
 	url = https://github.com/preservim/nerdcommenter.git
 [submodule "vim/bundle/vim-surround"]
 	path = vim/bundle/vim-surround
-	url = git@github.com:tpope/vim-surround.git
+	url = https://github.com/tpope/vim-surround.git
 [submodule "vim/bundle/syntastic"]
 	path = vim/bundle/syntastic
 	url = https://github.com/scrooloose/syntastic
