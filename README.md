@@ -12,10 +12,10 @@ cd dotfiles
 
 TODO:
 - [x] Zsh 
-- [ ] Vim plugins
+- [x] Vim plugins
 - [ ] Zsh plugins
 - [ ] Make platform specific bash/zsh configs
-- [ ] Check [awesome dotfiles]() for more details
+- [ ] Check [awesome dotfiles](https://github.com/webpro/awesome-dotfiles) for more details
 
 Reference:
 The Shell folder is based on [Anish's repo](https://github.com/anishathalye/dotfiles).
