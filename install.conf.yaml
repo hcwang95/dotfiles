@@ -13,6 +13,7 @@
       force: true
     ~/.zshrc: 
     ~/.oh-my-zsh:
+    ~/.gitconfig:
     ~/.tmux: 
 
 # - create:
