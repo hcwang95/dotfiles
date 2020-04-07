@@ -1,3 +1,5 @@
 [user]
 	name = hcwang
 	email = hcwang@cs.toronto.edu
+[core]
+	excludesfile = /home/hcwang/.gitignore_global
